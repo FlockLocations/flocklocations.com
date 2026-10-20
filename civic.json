@@ -1,0 +1,17 @@
+{
+  "status": "Production",
+  "thumbnailUrl": "",
+  "bornAt": "FlockLocations",
+  "geography": "International",
+  "politicalEntity": "",
+  "type": "Web App",
+  "needs": [
+    {"need": "Camera location reports"},
+    {"need": "Sighting confirmations"}
+  ],
+  "categories": [
+    {"category": "Open data"},
+    {"category": "Privacy"},
+    {"category": "Civic data"}
+  ]
+}
